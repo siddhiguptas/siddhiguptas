@@ -3,9 +3,9 @@
 
 - With a strong academic background, I secured **99.4% in 10th, 97.6% in 12th, and 99.25 percentile in JEE Mains**
 
-- 🌱 I’m currently learning **React js**
-
 - I'm currently pursuing **B-tech in Computer Engineering from NIT KURUKSHETRA**
+
+- 🌱 I’m currently learning **React js**
 
 - 🔭 I’m currently working on [Weather Forecast](https://github.com/Siddhi905/WeatherForecast)
 
