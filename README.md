@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- With a strong academic background, I secured **99.4% in 10th, 97.6% in 12th, and 99.25 percentile in JEE Mains**
+- 📚With a strong academic background, I secured **99.4% in 10th, 97.6% in 12th, and 99.25 percentile in JEE Mains**
 
-- I'm currently pursuing **B-tech in Computer Engineering from NIT KURUKSHETRA**
+- 🎓I'm currently pursuing **B-tech in Computer Engineering from NIT KURUKSHETRA**
 
 - 🌱 I’m currently learning **React js**
 
