@@ -5,6 +5,8 @@
 
 - 🎓I'm currently pursuing **B-tech in Computer Engineering from NIT KURUKSHETRA**
 
+- 🎯 I have a great interest in problem-solving and have solved 100+ questions on LeetCode and about 100 on GFG.
+
 - 🌱 I’m currently learning **React js**
 
 - 🔭 I’m currently working on [Weather Forecast](https://github.com/Siddhi905/WeatherForecast)
