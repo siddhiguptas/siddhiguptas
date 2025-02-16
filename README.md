@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siddhigupta811@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/6566395352rhgqqmvdxznw#4c8918](https://www.overleaf.com/6566395352rhgqqmvdxznw#4c8918)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y41uBTPXJT6YY-iW_aRz1qeWrxGOI2No/view)
 
 - ⚡ Fun fact **I once scored 99/100 in Physics, proving I understand Newton’s laws—but now I’m trying to defy gravity with my code! 💻⚡**
 
