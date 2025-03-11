@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 🔭 I’m currently working on [Weather Forecast](https://github.com/Siddhi905/WeatherForecast)
+- 🔭 I’m currently working on [ByteVerse(Blogging application)](https://t.co/46lWRPBzWD)
 
 - 📫 How to reach me **siddhigupta811@gmail.com**
 
