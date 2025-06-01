@@ -1,32 +1,37 @@
-<h1 align="center">Hi 👋, I'm Siddhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!---![Colorful Pastel Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/aed86da7-8c3a-4403-8304-e6fb74376a60) -->
 
-- 📚With a strong academic background, I secured **99.4% in 10th, 97.6% in 12th, and 99.25 percentile in JEE Mains**
-
-- 🎓I'm currently pursuing **B-tech in Computer Engineering from NIT KURUKSHETRA**
-
-- 🎯 I have a great interest in problem-solving and have solved 100+ questions on LeetCode and about 100 on GFG.
-
-- 🌱 I’m currently learning **React js**
-
-- 🔭 I’m currently working on [ByteVerse(Blogging application)](https://t.co/46lWRPBzWD)
-
-- 📫 How to reach me **siddhigupta811@gmail.com**
-
-
-
-- ⚡ Fun fact **I once scored 99/100 in Physics, proving I understand Newton’s laws—but now I’m trying to defy gravity with my code! 💻⚡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/siddhiguptas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhiguptas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siddhi-gupta-934a34314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhi-gupta-934a34314/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/siddhigupta811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/siddhigupta811" height="30" width="40" /></a>
-<a href=https://leetcode.com/u/siddhi_gupta09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/siddhi_gupta09" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/siddhigufu9x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/siddhigufu9x/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aed86da7-8c3a-4403-8304-e6fb74376a60" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="left">Welcome to Bugless Bliss</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhiguptas&show_icons=true&locale=en&layout=compact" alt="siddhi905" /></p>
+<!--- https://github.com/user-attachments/assets/64258336-973e-48d6-b460-e3b0057a6f1a-->
+
+<img align="right" src="https://github.com/user-attachments/assets/1a59df37-83bb-4084-973b-e9c5472e4912" width="250" height="250" />
+
+<h3 align="left">About Me</h3>
+
+<p align="left">
+  I'm <b>Siddhi Gupta</b> - a full-stack developer with a frontend focus, currently learning and building with the MERN stack. I enjoy turning complex problems into clean, user-friendly interfaces. </p> 
+
+<p> I'm pursuing Computer Engineering at NIT Kurukshetra, where I secured a 9.96 GPA in my first semester. I’m also building <b>ByteVerse</b>, a blogging application I'm using as a playground to explore full-stack development and sharpen my engineering thinking. </p>
+<p>
+Open to collaborative projects, learning opportunities, and conversations around web development, data structures, and building real-world products.
+</p>
+
+---
+
+<h3 align="left">Tech Stack I Work With</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript" height="25" alt="javascript logo" />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo" />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo" />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo" />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo" />
+</div>
