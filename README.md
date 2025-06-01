@@ -15,7 +15,11 @@
 <p align="left">
   I'm <b>Siddhi Gupta</b> - a full-stack developer with a frontend focus, currently learning and building with the MERN stack. I enjoy turning complex problems into clean, user-friendly interfaces. </p> 
 
-<p> I'm pursuing Computer Engineering at NIT Kurukshetra, where I secured a 9.96 GPA in my first semester. I’m also building <b>ByteVerse</b>, a blogging application I'm using as a playground to explore full-stack development and sharpen my engineering thinking. </p>
+<p>
+  I’m also building <a href="https://byteverse-seven.vercel.app/" target="_blank" rel="noopener noreferrer">ByteVerse</a>,
+  a blogging application I'm using as a playground to explore full-stack development and sharpen my engineering thinking.
+</p>
+
 <p>
 Open to collaborative projects, learning opportunities, and conversations around web development, data structures, and building real-world products.
 </p>
